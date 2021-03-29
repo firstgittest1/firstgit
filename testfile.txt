@@ -1,3 +1,4 @@
 test file add
 ammend contents add
 master add
+master2 add
